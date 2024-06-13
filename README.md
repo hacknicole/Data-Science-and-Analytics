@@ -16,17 +16,11 @@ Some of the most common data science steps include: Data extraction, Preparation
 **Data Scientists** develop algorithms and models to support machine learning programs. They use machine learning to classify or categorize data or to make predictions related to the models. 
 
 ## What is Data Analytics?
-![tdsp](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/699e4762225981.5a89af14d87a9.gif)
+![tdsp](https://www.echelonedge.com/wp-content/themes/echelon/assets/img/echelon-data-quipo.gif)
 <p align="justify">Analytics is the discovery and communication of meaningful patterns in data. Especially, valuable in areas rich with recorded information, analytics relies on the simultaneous application of statistics, computer programming, and operation research to qualify performance. Analytics often favors data visualization to communicate insight.</p>
 
 # Introduction to Python
 <p align="justify">Python is a high-level, general-purpose, and very popular programming language. Python programming language is being used in web development, Machine Learning applications, along all cutting-edge technology in the Software Industry. Python Programming Language is very well suited for Beginners, also for experienced programmers with other programming languages like C++ and Java. </p>
-
-## I/O Functions and Variables
-<p align="justify">Input means to provide the program with some data to be used in the program and Output means to display data on screen or write the data to a printer or a file. Python programming language provides many built-in  functions to read any given input and to display data on the screen when there is a need to  output the result. </p>
-
-## DataTypes
-<p align="justify">Python has several built-in data types, including numeric types (int, float, complex), string (str), boolean (bool), and collection types (list, tuple, dict, set). Each data type has its own set of properties, methods, and behaviors that allow programmers to manipulate and process data effectively in their programs.</p>
 
 # Tools Used
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)![Spyder](https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
