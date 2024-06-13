@@ -20,7 +20,6 @@ Some of the most common data science steps include: Data extraction, Preparation
 <p align="justify">Analytics is the discovery and communication of meaningful patterns in data. Especially, valuable in areas rich with recorded information, analytics relies on the simultaneous application of statistics, computer programming, and operation research to qualify performance. Analytics often favors data visualization to communicate insight.</p>
 
 # Introduction to Python
-![tdsp](https://media2.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif)
 <p align="justify">Python is a high-level, general-purpose, and very popular programming language. Python programming language is being used in web development, Machine Learning applications, along all cutting-edge technology in the Software Industry. Python Programming Language is very well suited for Beginners, also for experienced programmers with other programming languages like C++ and Java. </p>
 
 ## I/O Functions and Variables
